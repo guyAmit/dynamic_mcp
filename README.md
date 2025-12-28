@@ -1,5 +1,6 @@
-
 # Dynamic MCP (Model Context Protocol)
+
+<img src="/examples/concept_image.png" alt="Dynamic MCP Banner" width="50%">
 
 Dynamic MCP is a lightweight and security-aware implementation of the **Model Context Protocol (MCP)** that enables **on-demand tool discovery and invocation** instead of eagerly exposing all tools and schemas to the model upfront.
 
